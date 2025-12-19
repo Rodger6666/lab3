@@ -24,12 +24,20 @@
        <property name="text">
         <string>查找</string>
        </property>
+       <property name="icon">
+        <iconset resource="lab3.qrc">
+         <normaloff>:/image/find.svg</normaloff>:/image/find.svg</iconset>
+       </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btAdd">
        <property name="text">
         <string>添加</string>
+       </property>
+       <property name="icon">
+        <iconset resource="lab3.qrc">
+         <normaloff>:/image/new.svg</normaloff>:/image/new.svg</iconset>
        </property>
       </widget>
      </item>
@@ -38,12 +46,20 @@
        <property name="text">
         <string>删除</string>
        </property>
+       <property name="icon">
+        <iconset resource="lab3.qrc">
+         <normaloff>:/image/delete.png</normaloff>:/image/delete.png</iconset>
+       </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btEdit">
        <property name="text">
         <string>修改</string>
+       </property>
+       <property name="icon">
+        <iconset resource="lab3.qrc">
+         <normaloff>:/image/change.png</normaloff>:/image/change.png</iconset>
        </property>
       </widget>
      </item>
@@ -54,6 +70,8 @@
    </item>
   </layout>
  </widget>
- <resources/>
+ <resources>
+  <include location="lab3.qrc"/>
+ </resources>
  <connections/>
 </ui>

@@ -23,7 +23,7 @@
        </property>
        <property name="icon">
         <iconset resource="lab3.qrc">
-         <normaloff>:/D:/QT/image/undo.svg</normaloff>:/D:/QT/image/undo.svg</iconset>
+         <normaloff>:/image/undo.svg</normaloff>:/image/undo.svg</iconset>
        </property>
       </widget>
      </item>
@@ -67,7 +67,7 @@
        </property>
        <property name="icon">
         <iconset resource="lab3.qrc">
-         <normaloff>:/logout.png</normaloff>:/logout.png</iconset>
+         <normaloff>:/image/logout.png</normaloff>:/image/logout.png</iconset>
        </property>
       </widget>
      </item>
