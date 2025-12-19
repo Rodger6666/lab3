@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/QT/image/copy.svg</file>
+        <file>D:/QT/image/cut.svg</file>
+        <file>D:/QT/image/find.svg</file>
+        <file>D:/QT/image/font.svg</file>
+        <file>D:/QT/image/goto.svg</file>
+        <file>D:/QT/image/linenumber.svg</file>
+        <file>D:/QT/image/logo.svg</file>
+        <file>D:/QT/image/new.svg</file>
+        <file>D:/QT/image/open.svg</file>
+        <file>D:/QT/image/paste.svg</file>
+        <file>D:/QT/image/print.svg</file>
+        <file>D:/QT/image/redo.svg</file>
+        <file>D:/QT/image/replace.svg</file>
+        <file>D:/QT/image/save.svg</file>
+        <file>D:/QT/image/saveas.svg</file>
+        <file>D:/QT/image/status.svg</file>
+        <file>D:/QT/image/tool.svg</file>
+        <file>D:/QT/image/undo.svg</file>
+        <file>D:/QT/image/wrap.svg</file>
+        <file>../login.png</file>
+        <file>../logout.png</file>
+        <file>../return.png</file>
+    </qresource>
+</RCC>
