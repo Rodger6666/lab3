@@ -5,7 +5,7 @@
 
 namespace Ui {
 class WelcomeView;
-}
+}//
 
 class WelcomeView : public QWidget
 {

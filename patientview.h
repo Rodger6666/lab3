@@ -5,7 +5,7 @@
 
 namespace Ui {
 class PatientView;
-}//
+}
 
 class PatientView : public QWidget
 {

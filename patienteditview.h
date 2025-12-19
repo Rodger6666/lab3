@@ -6,7 +6,7 @@
 
 namespace Ui {
 class PatientEditView;
-}//
+}
 
 class PatientEditView : public QWidget
 {

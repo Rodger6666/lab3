@@ -1,5 +1,5 @@
 #include "patientview.h"
-#include "ui_patientview.h"//
+#include "ui_patientview.h"
 #include "idatabase.h"
 
 PatientView::PatientView(QWidget *parent) :

@@ -11,4 +11,4 @@ DepartmentView::DepartmentView(QWidget *parent)
 DepartmentView::~DepartmentView()
 {
     delete ui;
-}
+}//

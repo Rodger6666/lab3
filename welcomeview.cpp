@@ -6,7 +6,7 @@ WelcomeView::WelcomeView(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::WelcomeView)
 {
-    qDebug() <<"create WelcomeView";
+    qDebug() <<"create WelcomeView";//
     ui->setupUi(this);
 }
 
