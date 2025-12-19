@@ -17,7 +17,7 @@ MasterView::MasterView(QWidget *parent)
 
 MasterView::~MasterView()
 {
-    delete ui;
+    delete ui;//
 }
 
 void MasterView::goLoginView()

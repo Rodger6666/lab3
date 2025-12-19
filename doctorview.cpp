@@ -12,3 +12,4 @@ DocterView::~DocterView()
 {
     delete ui;
 }
+//

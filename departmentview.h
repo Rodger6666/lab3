@@ -16,7 +16,7 @@ public:
     ~DepartmentView();
 
 private:
-    Ui::DepartmentView *ui;
+    Ui::DepartmentView *ui;//
 };
 
 #endif // DEPARTMENTVIEW_H

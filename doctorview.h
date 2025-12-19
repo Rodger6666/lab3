@@ -19,4 +19,4 @@ private:
     Ui::DocterView *ui;
 };
 
-#endif // DOCTORVIEW_H
+#endif // DOCTORVIEW_H//

@@ -4,7 +4,7 @@
 #include <QWidget>
 #include "loginview.h"
 #include "doctorview.h"
-#include "departmentview.h"
+#include "departmentview.h"//
 #include "patienteditview.h"
 #include "patientview.h"
 #include "welcomeview.h"
