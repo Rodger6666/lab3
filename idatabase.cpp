@@ -12,7 +12,7 @@ void IDatabase::ininDatabase()
     } else
         qDebug() << "open database is ok" << database.connectionName();
 
-}//
+}
 
 bool IDatabase::initPatientModel()
 {

@@ -4,7 +4,7 @@
 #include <QObject>
 #include <QtSql>
 #include <QSqlDatabase>
-#include <QDataWidgetMapper>//
+#include <QDataWidgetMapper>
 
 class IDatabase : public QObject
 {

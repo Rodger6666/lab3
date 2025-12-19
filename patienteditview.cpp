@@ -44,5 +44,5 @@ void PatientEditView::on_pushButton_2_clicked()
 {
     IDatabase::getInstance().revertPatientEdit();//
     emit goPreviousView();
-}
+}//
 

@@ -12,7 +12,7 @@ MasterView::MasterView(QWidget *parent)
     this->setWindowFlag(Qt::FramelessWindowHint);
     goLoginView();
 
-    IDatabase::getInstance();
+    IDatabase::getInstance();//
 }
 
 MasterView::~MasterView()
